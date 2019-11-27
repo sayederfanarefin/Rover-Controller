@@ -1,22 +1,26 @@
 {
-  "name": "electron-quick-start",
+  "name": "Rover Controller",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Rover Controller to controll Raspberry Ppi based Rover robot.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/sayederfanarefin/Rover-Controller",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Raspberry Pi",
+    "Rover",
+    "Robot",
+    "Rover Controller"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^7.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.0",
+    "jquery": "^3.4.1"
   }
 }
