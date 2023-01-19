@@ -8,3 +8,10 @@ This project aims towards making a desktop application based on Electron. It wil
 Updates are coming soon.
 
 For further query please contact erfanjordison@gmail.com
+
+
+
+# Rover body
+
+motor controller: PCA9685 
+code: https://github.com/AnbuKumar-maker/AI-on-Jetson-Nano/blob/master/Installing%20PCA9685%20Motor%20Driver%20in%20Jetson%20Nano
